@@ -10,8 +10,8 @@
     
   
   <url>
-    <loc>https://update-me.com/posts/firstpost/</loc>
-    <lastmod>2024-10-14T04:21:16.000Z</lastmod>
+    <loc>https://mcgjpn.github.io/posts/firstpost/</loc>
+    <lastmod>2024-10-15T11:25:06.000Z</lastmod>
   </url>
   
   
@@ -23,8 +23,8 @@
     
   
   <url>
-    <loc>https://update-me.com/posts/secondpost/</loc>
-    <lastmod>2024-10-14T04:21:16.000Z</lastmod>
+    <loc>https://mcgjpn.github.io/posts/secondpost/</loc>
+    <lastmod>2024-10-15T11:25:06.000Z</lastmod>
   </url>
   
   
@@ -36,8 +36,8 @@
     
   
   <url>
-    <loc>https://update-me.com/posts/thirdpost/</loc>
-    <lastmod>2024-10-14T04:21:16.000Z</lastmod>
+    <loc>https://mcgjpn.github.io/posts/thirdpost/</loc>
+    <lastmod>2024-10-15T11:25:06.000Z</lastmod>
   </url>
   
   
@@ -49,8 +49,8 @@
     
   
   <url>
-    <loc>https://update-me.com/posts/fourthpost/</loc>
-    <lastmod>2024-10-14T04:21:16.000Z</lastmod>
+    <loc>https://mcgjpn.github.io/posts/fourthpost/</loc>
+    <lastmod>2024-10-15T11:25:06.000Z</lastmod>
   </url>
   
   
@@ -62,8 +62,8 @@
   
   
   <url>
-    <loc>https://update-me.com/about/</loc>
-    <lastmod>2024-10-14T04:21:32.867Z</lastmod>
+    <loc>https://mcgjpn.github.io/about/</loc>
+    <lastmod>2024-10-15T11:25:18.355Z</lastmod>
   </url>
   
   
@@ -75,8 +75,8 @@
   
   
   <url>
-    <loc>https://update-me.com/posts/</loc>
-    <lastmod>2024-10-14T04:21:32.867Z</lastmod>
+    <loc>https://mcgjpn.github.io/posts/</loc>
+    <lastmod>2024-10-15T11:25:18.355Z</lastmod>
   </url>
   
   
@@ -88,8 +88,8 @@
   
   
   <url>
-    <loc>https://update-me.com/</loc>
-    <lastmod>2024-10-14T04:21:32.883Z</lastmod>
+    <loc>https://mcgjpn.github.io/</loc>
+    <lastmod>2024-10-15T11:25:18.371Z</lastmod>
   </url>
   
   
@@ -101,8 +101,8 @@
   
   
   <url>
-    <loc>https://update-me.com/page-list/</loc>
-    <lastmod>2024-10-14T04:21:32.883Z</lastmod>
+    <loc>https://mcgjpn.github.io/page-list/</loc>
+    <lastmod>2024-10-15T11:25:18.371Z</lastmod>
   </url>
   
   
@@ -114,8 +114,8 @@
   
   
   <url>
-    <loc>https://update-me.com/tags/</loc>
-    <lastmod>2024-10-14T04:21:32.883Z</lastmod>
+    <loc>https://mcgjpn.github.io/skill_guide/</loc>
+    <lastmod>2024-10-15T11:25:18.375Z</lastmod>
   </url>
   
   
@@ -127,8 +127,8 @@
   
   
   <url>
-    <loc>https://update-me.com/tags/second-tag/</loc>
-    <lastmod>2024-10-14T04:21:32.883Z</lastmod>
+    <loc>https://mcgjpn.github.io/tags/</loc>
+    <lastmod>2024-10-15T11:25:18.375Z</lastmod>
   </url>
   
   
@@ -140,8 +140,8 @@
   
   
   <url>
-    <loc>https://update-me.com/tags/number-2/</loc>
-    <lastmod>2024-10-14T04:21:32.883Z</lastmod>
+    <loc>https://mcgjpn.github.io/tags/another-tag/</loc>
+    <lastmod>2024-10-15T11:25:18.375Z</lastmod>
   </url>
   
   
@@ -153,7 +153,20 @@
   
   
   <url>
-    <loc>https://update-me.com/tags/another-tag/</loc>
-    <lastmod>2024-10-14T04:21:32.883Z</lastmod>
+    <loc>https://mcgjpn.github.io/tags/second-tag/</loc>
+    <lastmod>2024-10-15T11:25:18.375Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <url>
+    <loc>https://mcgjpn.github.io/tags/number-2/</loc>
+    <lastmod>2024-10-15T11:25:18.375Z</lastmod>
   </url>
 </urlset>
